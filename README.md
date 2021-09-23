@@ -1,1 +1,2 @@
-# DevOps-Lab1
+# Usage
+vagrant up - create from vagrantfile virtualmachine
